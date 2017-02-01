@@ -23,5 +23,5 @@ In my free time, I like to play table tennis, meet new people or play guitar. I 
 
 ### Contact me
 
-    [write2bpj@gmail.com](mailto:write2bpj@gmail.com)
-    [linkedin](https://www.linkedin.com/in/bpjoshi)
+   [write2bpj@gmail.com](mailto:write2bpj@gmail.com)
+   [linkedin](https://www.linkedin.com/in/bpjoshi)
